@@ -1,6 +1,7 @@
 ## 整合包地址
 
 **夸克网盘：**
+[点击下载整合包](https://pan.quark.cn/s/f3c030456047?pwd=U7p7)
 url点击下载整合包https://pan.quark.cn/s/f3c030456047?pwd=U7p7
 
 **提取码：** `U7p7`
